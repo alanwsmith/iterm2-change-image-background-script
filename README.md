@@ -66,4 +66,4 @@ TODO: Link up to 2ly1b8hlmbfd when it's ready
 
 ## References
 
-- (iTerm2 Profile Docs)[https://iterm2.com/python-api/profile.html#iterm2.Profile.async_set_background_image_location]
+- [iTerm2 Profile Docs](https://iterm2.com/python-api/profile.html#iterm2.Profile.async_set_background_image_location)
